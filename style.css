@@ -1,0 +1,64 @@
+header{
+    background:url("eduardo-flores-xpcUYaZtplI-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 650px;
+}
+.blur{
+    background-color: rgba(0, 0, 0, .4);
+    min-height: 650px;
+}
+
+
+
+.materialboxed{
+    cursor: pointer;
+}
+
+.header-text{
+    margin-top:100px;
+}
+
+body{
+    background-color: black;
+}
+
+.my-icon{
+    margin-left: 100px;
+}
+
+.my-row{
+    margin-top: 90px;
+}
+
+.my-sec{
+    margin-top: 150px;
+}
+
+.my-list{
+color: white;
+}
+
+
+.my-p{
+    text-decoration: underline;
+}
+
+#about{
+    margin-top: 100px;
+}
+
+.my-ndiv{
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+#faqs{
+    margin-top: 100px;
+}
+
+#contact{
+    margin-top: 100px;
+}
